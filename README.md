@@ -237,3 +237,6 @@ This repository serves as the official landing page for Belarc Advisor. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Belarc Advisor today!**
+
+---
+**Last updated:** 2026-09-07 16:50:02 UTC
