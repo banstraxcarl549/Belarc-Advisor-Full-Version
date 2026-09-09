@@ -239,4 +239,4 @@ This repository serves as the official landing page for Belarc Advisor. The soft
 **Get the most recent version of Belarc Advisor today!**
 
 ---
-**Last updated:** 2026-09-09 21:21:53 UTC
+**Last updated:** 2026-09-09 23:39:20 UTC
